@@ -1,0 +1,16 @@
+# Pasta de saídas geradas pelo código
+outputs/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Configurações de IDE (ex: VS Code)
+.vscode/
+
+# Arquivos de ambiente com senhas/chaves (NUNCA versionar!)
+.env
+*.key
+
+# Sistema (ex: macOS)
+.DS_Store
