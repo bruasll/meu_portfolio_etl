@@ -1,8 +1,8 @@
-# 🏦 Pipeline ETL - Desafio Santander Dev Week
+# Pipeline ETL - Desafio Santander Dev Week
 
 Implementação de uma pipeline ETL completa para processamento de dados de clientes bancários, desenvolvida como parte do desafio da Santander Dev Week.
 
-## 📋 Sobre o Projeto
+##  Sobre o Projeto
 
 Este projeto foi desenvolvido para demonstrar habilidades em:
 - Processamento de dados com Python
@@ -10,4 +10,4 @@ Este projeto foi desenvolvido para demonstrar habilidades em:
 - Trabalho com dados estruturados (CSV, JSON)
 - Geração de relatórios automatizados
 
-## 🏗️ Estrutura do Projeto
+##  Estrutura do Projeto
