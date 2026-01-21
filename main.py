@@ -12,9 +12,9 @@ import sys
 import os
 sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
 
-from extrator import ExtratorDados
-from transformador import TransformadorDados
-from carregador import CarregadorDados
+from src.extrator import ExtratorDados
+from src.transformador import TransformadorDados
+from src.carregador import CarregadorDados
 
 def main():
     print("=" * 60)
